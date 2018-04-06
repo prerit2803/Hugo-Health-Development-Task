@@ -1,0 +1,14 @@
+{
+  "name": "hugo-health",
+  "version": "1.0.0",
+  "description": "A repo for Hugo Health Development task which runs in Docker and fetches the cypto currency price and market cap in USD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prerit Bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "coinmarketcap-api": "^1.0.3"
+  }
+}

@@ -1,0 +1,7 @@
+name: Hugo-Health-Docker
+vm:
+  ip: 192.168.11.11
+lang:
+  - nodejs9
+services:
+  - docker
