@@ -36,6 +36,9 @@ cd /Hugo-Health-Development-Task
 #### Docker Image Run instructions
 + Once the docker image build is successful, execute the following command:
 ```
-docker run -e "cryptoCurrencyName=<CRYPTO-CURRENCY-NAME>" -it prerit/hugo-health-task```
-Example:  ``` docker run -e "cryptoCurrencyName=ethereum" -it prerit/hugo-health-task
+docker run -e "cryptoCurrencyName=<CRYPTO-CURRENCY-NAME>" -it prerit/hugo-health-task
+```
+Example:  
+``` 
+docker run -e "cryptoCurrencyName=ethereum" -it prerit/hugo-health-task
 ```
