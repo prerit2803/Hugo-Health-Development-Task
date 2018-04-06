@@ -21,9 +21,9 @@ Setup `baker`
   If something goes wrong, and you want to run again, you can switch over to the "local" version of the command, to reinitialized the baker-test directory: `baker bake2 --local .`   
 + **SSH into the baker machine**  
 To SSH into the machine, run the following   
-```
-baker ssh Hugo-Health-Docker
-```
+  ```
+  baker ssh Hugo-Health-Docker
+  ```
 #### Change the working directory  
 ```
 cd /Hugo-Health-Development-Task
@@ -35,10 +35,10 @@ cd /Hugo-Health-Development-Task
   ```
 #### Docker Image Run instructions
 + Once the docker image build is successful, execute the following command:
-```
-docker run -e "cryptoCurrencyName=<CRYPTO-CURRENCY-NAME>" -it prerit/hugo-health-task
-```
-Example:  
-``` 
-docker run -e "cryptoCurrencyName=ethereum" -it prerit/hugo-health-task
-```
+  ```
+  docker run -e "cryptoCurrencyName=<CRYPTO-CURRENCY-NAME>" -it prerit/hugo-health-task
+  ```
+  Example:  
+  ``` 
+  docker run -e "cryptoCurrencyName=ethereum" -it prerit/hugo-health-task
+  ```
