@@ -44,3 +44,10 @@ cd /Hugo-Health-Development-Task
   ```
 ## Screenshot
 ![](https://github.com/prerit2803/Hugo-Health-Development-Task/blob/master/Hugo-Health-Docker-Demo.gif)
+
+## References
+
++ [CoinMarketCap API Documentation](https://coinmarketcap.com/api/)
++ [CoinMarketCap API Module](https://www.npmjs.com/package/coinmarketcap-api)
++ [Baker](https://docs.getbaker.io/getstarted/)
++ [Docker Documentation](https://docs.docker.com/engine/reference/builder/)
