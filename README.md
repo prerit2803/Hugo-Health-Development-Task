@@ -42,3 +42,5 @@ cd /Hugo-Health-Development-Task
   ``` 
   docker run -e "cryptoCurrencyName=ethereum" -it prerit/hugo-health-task
   ```
+## Screenshot
+![](https://github.com/prerit2803/Hugo-Health-Development-Task/blob/master/Hugo-Health-Docker-Demo.gif)
